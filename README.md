@@ -1,14 +1,14 @@
 # NTHU_Natural_Language_Processing-IKMLab
 
-This repository provides course materials for students in NLP class.
+This repository provides course materials of the Natural Language Processing course at NTHU (instructor: Prof. Hung-Yu Kao).
 
 ## Couse Materials
 
-| Week | Topics | Slide | Video |
-|---|---|---|---|
-|W1 | 課程簡介 Syllabus / Introduction to NLP | [`Slide`](./Slides/W0_Syllabus.pdf) | [`Video1`](https://www.youtube.com/live/oZHHnuFVHtk) [`Video2`](https://www.youtube.com/live/PW-6nELZNhg)
-|W2 | 自然語言處理簡介 (1/2) Introduction to NLP (vector space, indexing, parts of speech, phrase structure) | [`Slide`](./Slides/W1_NLP_brief.pdf) |  [`Video1`](https://www.youtube.com/live/jBKUDUbeOkE) [`Video2`](https://www.youtube.com/live/wmUOivdJb6M)
-|W3 | 自然語言處理簡介 (2/2) Introduction to NLP (Language model) |
+| Week | Topics | Slide | Video | Slido |
+|---|---|---|---|--- |
+|W1 | 課程簡介 Syllabus / Introduction to NLP | [`Slide`](./Slides/W0_Syllabus.pdf) | [`Video1`](https://www.youtube.com/live/oZHHnuFVHtk) [`Video2`](https://www.youtube.com/live/PW-6nELZNhg)| [`Slido`](https://app.sli.do/event/wvKBbisHUsMsKXHH2wJfW3)
+|W2 | 自然語言處理簡介 (1/2) Introduction to NLP (vector space, indexing, parts of speech, phrase structure) | [`Slide`](./Slides/W1_NLP_brief.pdf) |  [`Video1`](https://www.youtube.com/live/jBKUDUbeOkE) [`Video2`](https://www.youtube.com/live/wmUOivdJb6M) | `Slido`
+|W3 | 自然語言處理簡介 (2/2) Introduction to NLP (Language model) | 
 |W4 | 基礎文字資料機器學習 (1/2) Basic machine learning for text (Text Classification, NB, NN) |
 |W5 | 基礎文字資料機器學習 (2/2) Basic machine learning for text (word embedding, text representation) |
 |W6 | 文字生成式AI簡介(1/3) Introduction to GAI (text): Word Embeddings, Language Modeling (RNN), Sequence-to-sequence Models, and Attention Mechanisms, Sub-word Tokenization; Transformers
