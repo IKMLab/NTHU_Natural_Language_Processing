@@ -4,4 +4,10 @@
 | :-: | :-: | :-: | :-: | :-: |
 | Assignment 1 | Word Analogy | [`Video`](https://youtu.be/P4tQgWPh4H8) | [`PDF`](./Assignment1/NTHU-NLP-HW1-word-emb.pdf) | [`.ipynb`](./Assignment1/main.ipynb) |
 
+|TA Hour||
+| :-: | :-: |
+|Tue. | 15:30 - 16:30 |
+|Wed. | 15:30 - 16:30 |
+| Location | 炯朗館(資電館) 634 |
+
 TA信箱：nthuikmlab@gmail.com
