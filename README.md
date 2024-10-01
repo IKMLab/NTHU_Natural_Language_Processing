@@ -10,7 +10,7 @@ This repository provides course materials of the Natural Language Processing cou
 |W2 | 自然語言處理簡介 (1/2) Introduction to NLP (vector space, indexing, parts of speech, phrase structure) | [`Slide1`](./Slides/W1_NLP_brief.pdf) [`Slide2`](./Slides/W2_Word%20embeddings%20and%20Language%20Modeling%20(RNN).pdf)|  [`Video1`](https://www.youtube.com/live/jBKUDUbeOkE) [`Video2`](https://www.youtube.com/live/wmUOivdJb6M) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF)
 |W3 | 自然語言處理簡介 (2/2) Introduction to NLP (Language model) | [`Slide2`](./Slides/W2_Word%20embeddings%20and%20Language%20Modeling%20(RNN).pdf) | [`Video`](https://youtube.com/live/4pvbArJ5JtM) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF)
 |W4 | 基礎文字資料機器學習 (1/2) Basic machine learning for text (Text Classification, NB, NN) | [`Slide3-1`](./Slides/W3_Sequence-to-sequence%20Models%20and%20Attention%20Mechanisms.pdf) [`Slide3-2`](./Slides/W3_subword.pdf) [`Slide3-3`](./Slides/W3_Transformers.pdf) | [`Video1`](https://youtube.com/live/MNYs4Skugsk) [`Video2`](https://www.youtube.com/live/TdrAnUMqmA4) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF)
-|W5 | 基礎文字資料機器學習 (2/2) Basic machine learning for text (word embedding, text representation) |
+|W5 | 基礎文字資料機器學習 (2/2) Basic machine learning for text (word embedding, text representation) | [`Slide4`](./Slides/W4_bert_and_its_family.pdf) | [`Video1`](https://youtube.com/live/stD4aeNi9o4) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF)
 |W6 | 文字生成式AI簡介(1/3) Introduction to GAI (text): Word Embeddings, Language Modeling (RNN), Sequence-to-sequence Models, and Attention Mechanisms, Sub-word Tokenization; Transformers
 |W7 | *Python for text tutorial (1/2)* |
 |W8 | *Python for text tutorial (2/2)* |
