@@ -13,7 +13,7 @@ This repository provides course materials of the Natural Language Processing cou
 |W5 | 基礎文字資料機器學習 (2/2) Basic machine learning for text (word embedding, text representation) | [`Slide4`](./Slides/W4_bert_and_its_family.pdf) | [`Video`](https://youtube.com/live/stD4aeNi9o4) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF)
 |W6 | 文字生成式AI簡介(1/3) Introduction to GAI (text): Word Embeddings, Language Modeling (RNN), Sequence-to-sequence Models, and Attention Mechanisms, Sub-word Tokenization; Transformers | | [`Video`](https://youtube.com/live/LxUTwOTnQFQ) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF) 
 |W7 | *Python for text tutorial (1/2)* | [`SlideTA`](./Slides/pytorch_tutorial_NTHU_NLP.pdf) [`Slide5`](./Slides/W5_decoding.pdf) | [`VideoTA`](https://www.youtube.com/watch?v=sg22677pUEs) [`Video`](https://youtube.com/live/efrdB5Sqd7g) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF) 
-|W8 | *Python for text tutorial (2/2)* | [`SlideTA`](./Slides/huggingface_tutorial_bert.pdf) | [`VideoTA`](https://www.youtube.com/watch?v=VErSpYgZGiw) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF)
+|W8 | *Python for text tutorial (2/2)* | [`SlideTA`](./Slides/huggingface_tutorial_bert.pdf) [`.ipynb`](./Reference/bert-huggingface.ipynb) | [`VideoTA`](https://www.youtube.com/watch?v=VErSpYgZGiw) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF)
 |W9 | 文字生成式AI簡介(2/3) Introduction to GAI (text): ELMo, BERT, GPT, and T5 (BERT and its Family) |
 |W10| 文字生成式AI簡介(3/3) Introduction to GAI (text): Decoding Strategies and Evaluations for Natural Language Generation |
 |W11| 大語言模型簡介與訓練 (1/3): Large language model concept and training (GPT-3, InstructGPT, RLHF) |
