@@ -17,7 +17,7 @@ This repository provides course materials of the Natural Language Processing cou
 |W9 | 文字生成式AI簡介(2/3) Introduction to GAI (text): ELMo, BERT, GPT, and T5 (BERT and its Family) | [`Slide8`](./Slides/W8_GPT3_InstructGPT_RLHF.pdf) | [`Video`](https://youtube.com/live/24HkpOXDlDQ) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF)
 |W10| 文字生成式AI簡介(3/3) Introduction to GAI (text): Decoding Strategies and Evaluations for Natural Language Generation | [`SlideTA`](./Slides/huggingface_tutorial_gpt2_t5.pdf) [`gpt.ipynb`](./Reference/gpt2_summarization.ipynb) [`t5.ipynb`](./Reference/t5_summarization.ipynb) [`Slide9`](./Slides/W9_PEFT.pdf) | [`VideoTA`](https://youtu.be/NijzxIlzftU) [`Video`](https://youtube.com/live/k8vtBcwy7pU) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF)
 |W11| 大語言模型簡介與訓練 (1/3): Large language model concept and training (GPT-3, InstructGPT, RLHF) | | [`Video1`](https://youtube.com/live/8l-JVYW2Sac) [`Video2`](https://youtube.com/live/f5HNG6_-qRY) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF)
-|W12| 大語言模型簡介與訓練 (2/3): Parameter Efficient Fine-Tuning (PEFT) |
+|W12| 大語言模型簡介與訓練 (2/3): Parameter Efficient Fine-Tuning (PEFT) | [`Slide11`](./Slides/W11_RAG.pdf) | [`Video1`](https://youtube.com/live/olRheBkG13E) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF)
 |W13| 大語言模型簡介與訓練 (2/3): Introduction and Review technique of Retrieval Augmented Generation (RAG) |
 |W14| **Term project presentation (1/3)** |
 |W15| **Term project presentation (1/3)** |
