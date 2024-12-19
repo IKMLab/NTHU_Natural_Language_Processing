@@ -23,7 +23,7 @@ This repository provides course materials of the Natural Language Processing cou
 |W13| 大語言模型簡介與訓練 (2/3): Introduction and Review technique of Retrieval Augmented Generation (RAG) | [`SlideTA`](./Slides/rag_tutorial_1.pdf) | [`Video1`](https://youtube.com/live/F6-pcXzSx5w) [`VideoTA`](https://youtu.be/8-RTSLQRrfI) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF)
 |W14| **Term project presentation (1/3)** | [`SlideTA`](./Slides/rag_tutorial_2.pdf) | [`Video1`](https://youtube.com/live/WoEVKTLEqbs) [`VideoTA`](https://youtu.be/fKtYWeM5BQ4) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF) |
 |W15| **Term project presentation (1/3)** | | [`Video1`](https://youtube.com/live/6990RePufrM) [`Video2`](https://youtube.com/live/oSQXQ3np1PY) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF) |
-|W16| **Term project presentation (1/3)** | | [`Video1`](https://youtube.com/live/SZMzBDbPdrM) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF) |
+|W16| **Term project presentation (1/3)** | | [`Video1`](https://youtube.com/live/SZMzBDbPdrM) [`Video2`](https://youtube.com/live/DYtTDQiqap8) | [`Slido`](https://app.sli.do/event/dKD1f7KsoB3JGYgeQ6SBkF) |
 |W17| **Term Project (demo) (optional)** |
 |W18| **Term Project (demo) (optional)** |
 
