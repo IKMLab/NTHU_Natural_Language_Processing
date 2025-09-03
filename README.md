@@ -1,6 +1,6 @@
 # [2025] NTHU_Natural_Language_Processing-IKMLab
 This repository provides course materials of the Natural Language Processing course at NTHU (instructor: Prof. Hung-Yu Kao).
-## Couse Materials
+## Course Materials
 | Week | Topics | Slide | Video | Slido |
 |:-:|---|:-:|:-:|:-:|
 |W1 | 課程簡介 Syllabus / Introduction to NLP | [`Slide`](./2025/Slides/W0_Syllabus.pdf) [`Slide1`](./2025/Slides/W1_NLP_brief.pdf) | [`Video1`](https://www.youtube.com/live/X7XJcm9wfFA) [`Video2`](https://www.youtube.com/live/0hTqSpoNp4o)| [`Slido`](https://app.sli.do/event/5LEEUbdFx33pkrbx5ziDSc)
