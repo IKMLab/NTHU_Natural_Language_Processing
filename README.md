@@ -1,4 +1,4 @@
-#[2025] NTHU_Natural_Language_Processing-IKMLab
+# [2025] NTHU_Natural_Language_Processing-IKMLab
 
 This repository provides course materials of the Natural Language Processing course at NTHU (instructor: Prof. Hung-Yu Kao).
 
