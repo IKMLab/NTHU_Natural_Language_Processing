@@ -2,7 +2,7 @@
 
 This repository provides course materials of the Natural Language Processing course at NTHU (instructor: Prof. Hung-Yu Kao).
 
-## Couse Materials
+## Course Materials
 
 | Week | Topics | Slide | Video | Slido |
 |:-:|---|:-:|:-:|:-:|
