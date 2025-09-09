@@ -6,7 +6,7 @@ Slido：[`Slido`](https://app.sli.do/event/5LEEUbdFx33pkrbx5ziDSc)
 | Week | Topics | Slide | Video |
 |:-:|---|:-:|:-:|
 |W1 | 課程簡介 Syllabus / Introduction to NLP | [`Slide`](./2025/Slides/W0_Syllabus.pdf) [`Slide1`](./2025/Slides/W1_NLP_brief.pdf) | [`Video1`](https://www.youtube.com/live/X7XJcm9wfFA) [`Video2`](https://www.youtube.com/live/0hTqSpoNp4o) |
-|W2 | 自然語言處理簡介 (1/2) Introduction to NLP (vector space, indexing, parts of speech, phrase structure) | | [`Video1`](https://www.youtube.com/live/6Z0A4JMptT8) |
+|W2 | 自然語言處理簡介 (1/2) Introduction to NLP (vector space, indexing, parts of speech, phrase structure) | | [`Video1`](https://www.youtube.com/live/6Z0A4JMptT8) [`Video2`](https://www.youtube.com/live/cqp5a39eyJQ?si=1-vj_n2Xe3YwheHz) |
 |W3 | 自然語言處理簡介 (2/2) Introduction to NLP (Language model) |  |  |
 |W4 | 基礎文字資料機器學習 (1/2) Basic machine learning for text (Text Classification, NB, NN) |  |  |
 |W5 | 基礎文字資料機器學習 (2/2) Basic machine learning for text (word embedding, text representation) |  |  |
