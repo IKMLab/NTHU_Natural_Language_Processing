@@ -6,8 +6,8 @@
  
 |TA Hour||
 | :-: | :-: |
-|Tue. | 15:30 - 16:30 |
+|Mon. | 15:30 - 16:30 |
 |Wed. | 15:30 - 16:30 |
-| Location | 炯朗館(資電館) 634 |
+| Location | 炯朗館(資電館) 635 |
 
 TA信箱：nthuikmlab@gmail.com
