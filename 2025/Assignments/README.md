@@ -2,7 +2,7 @@
 
 | Assignment | Topic | Video | Doc | Reference Code |
 | :-: | :-: | :-: | :-: | :-: |
-| Assignment 1 | Word Analogy | [`Video`](https://youtu.be/nCS3GpHwqr8) | [`Description`](./2025/Assignments/Assignment1/NLP_HW1_word_emb.pdf) [`Template`](./2025/Assignments/Assignment1/NLP_HW1_report_template.docx) | [`Code`](./2025/Assignments/Assignment1/main.ipynb) |
+| Assignment 1 | Word Analogy | [`Video`](https://youtu.be/nCS3GpHwqr8) | [`Description`](./Assignment1/NLP_HW1_word_emb.pdf) [`Template`](./Assignment1/NLP_HW1_report_template.docx) | [`Code`](./Assignment1/main.ipynb) |
  
 |TA Hour||
 | :-: | :-: |
