@@ -7,7 +7,7 @@ Slido：[`Slido`](https://app.sli.do/event/5LEEUbdFx33pkrbx5ziDSc)
 |:-:|---|:-:|:-:|:-:|
 |W1 | 課程簡介 Syllabus / Introduction to NLP | [`Slide`](./2025/Slides/W0_Syllabus.pdf) [`Slide1`](./2025/Slides/W1_NLP_brief.pdf) | [`Video1`](https://www.youtube.com/live/X7XJcm9wfFA) [`Video2`](https://www.youtube.com/live/0hTqSpoNp4o) |  |
 |W2 | 自然語言處理簡介 (1/2) Introduction to NLP (vector space, indexing, parts of speech, phrase structure) | [`Slide2`](./2025/Slides/W2_Word%20embeddings%20and%20Language%20Modeling%20(RNN).pdf) | [`Video1`](https://www.youtube.com/live/6Z0A4JMptT8) [`Video2`](https://www.youtube.com/live/cqp5a39eyJQ?si=1-vj_n2Xe3YwheHz) | [`HW1`](./2025/Assignments/Assignment1) [`VideoHW1`](https://youtu.be/nCS3GpHwqr8) |
-|W3 | 自然語言處理簡介 (2/2) Introduction to NLP (Language model) | [`Slide3`](./2025/Slides/W3_Sequence-to-sequence%20Models%20and%20Attention%20Mechanisms.pdf) | [`Video1`](https://www.youtube.com/live/LFeFc0VtKRI) |  |
+|W3 | 自然語言處理簡介 (2/2) Introduction to NLP (Language model) | [`Slide3`](./2025/Slides/W3_Sequence-to-sequence%20Models%20and%20Attention%20Mechanisms.pdf) | [`Video1`](https://www.youtube.com/live/LFeFc0VtKRI) [`Video2`](https://www.youtube.com/live/UZ22K0rmU1g)|  |
 |W4 | 基礎文字資料機器學習 (1/2) Basic machine learning for text (Text Classification, NB, NN) |  |  |  |
 |W5 | 基礎文字資料機器學習 (2/2) Basic machine learning for text (word embedding, text representation) |  |  |  |
 |W6 | 文字生成式AI簡介(1/3) Introduction to GAI (text): Word Embeddings, Language Modeling (RNN), Sequence-to-sequence Models, and Attention Mechanisms, Sub-word Tokenization; Transformers |  |  |  |
