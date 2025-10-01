@@ -3,7 +3,7 @@
 | Assignment | Topic | Video | Doc | Reference Code |
 | :-: | :-: | :-: | :-: | :-: |
 | Assignment 1 | Word Analogy | [`Video`](https://youtu.be/nCS3GpHwqr8) | [`Description`](./Assignment1/NLP_HW1_word_emb.pdf) [`Template`](./Assignment1/NLP_HW1_report_template.docx) | [`Code`](./Assignment1/main.ipynb) |
-| Assignment 2 | Arithmetic | [`Video`](https://youtu.be/nFQCFaRs0kE) | [`Description`](./Assignment2/NLP_HW1_arithmetic.pdf) [`Template`](./Assignment2/NLP_HW2_report_template.docx) | [`Code`](./Assignment2/main.ipynb) |
+| Assignment 2 | Arithmetic | [`Video`](https://youtu.be/nFQCFaRs0kE) | [`Description`](./Assignment2/NLP_HW2_arithmetic.pdf) [`Template`](./Assignment2/NLP_HW2_report_template.docx) | [`Code`](./Assignment2/main.ipynb) |
  
 |TA Hour||
 | :-: | :-: |
