@@ -9,7 +9,7 @@ Slido：[`Slido`](https://app.sli.do/event/5LEEUbdFx33pkrbx5ziDSc)
 |W2 | 自然語言處理簡介 (1/2) Introduction to NLP (vector space, indexing, parts of speech, phrase structure) | [`Slide2`](./2025/Slides/W2_Word%20embeddings%20and%20Language%20Modeling%20(RNN).pdf) | [`Video1`](https://www.youtube.com/live/6Z0A4JMptT8) [`Video2`](https://www.youtube.com/live/cqp5a39eyJQ?si=1-vj_n2Xe3YwheHz) | [`HW1`](./2025/Assignments/Assignment1) [`Video`](https://youtu.be/nCS3GpHwqr8) |
 |W3 | 自然語言處理簡介 (2/2) Introduction to NLP (Language model) | [`Slide3A`](./2025/Slides/W3_Sequence-to-sequence%20Models%20and%20Attention%20Mechanisms.pdf) | [`Video1`](https://www.youtube.com/live/LFeFc0VtKRI) [`Video2`](https://www.youtube.com/live/UZ22K0rmU1g)|  |
 |W4 | 基礎文字資料機器學習 (1/2) Basic machine learning for text (Text Classification, NB, NN) |  [`SlideTA`](./2025/Slides/pytorch_tutorial_NTHU_NLP.pdf) [`Slide3B`](./2025/Slides/W3_Transformers.pdf)  | [`Video1`](https://www.youtube.com/live/INIrdjLVMEU) [`Video2`](https://www.youtube.com/live/tr5QyN5TswM) |  |
-|W5 | 基礎文字資料機器學習 (2/2) Basic machine learning for text (word embedding, text representation) |  | [`Video1`](https://www.youtube.com/live/Dpswwk6UMCc) |  |
+|W5 | 基礎文字資料機器學習 (2/2) Basic machine learning for text (word embedding, text representation) |  | [`Video1`](https://www.youtube.com/live/Dpswwk6UMCc) [`Video2`](https://www.youtube.com/live/FB0fgRTEbJE) |  |
 |W6 | 文字生成式AI簡介(1/3) Introduction to GAI (text): Word Embeddings, Language Modeling (RNN), Sequence-to-sequence Models, and Attention Mechanisms, Sub-word Tokenization; Transformers |  |  |  |
 |W7 | *Python for text tutorial (1/2)* |  |  |  |
 |W8 | *Python for text tutorial (2/2)* |  |  |  |
