@@ -1,6 +1,14 @@
 # [2025] NTHU_Natural_Language_Processing-IKMLab
 This repository provides course materials of the Natural Language Processing course at NTHU (instructor: Prof. Hung-Yu Kao).
 
+|TA Hour||
+| :-: | :-: |
+|Mon. | 15:30 - 16:30 |
+|Wed. | 15:30 - 16:30 |
+| Location | 炯朗館(資電館) 635 |
+
+TA email: nthuikmlab@gmail.com
+
 ## Course Materials
 Slido：[`Slido`](https://app.sli.do/event/5LEEUbdFx33pkrbx5ziDSc)
 | Week | Topics | Slide | Video | HW |
