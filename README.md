@@ -19,7 +19,7 @@ Slido：[`Slido`](https://app.sli.do/event/5LEEUbdFx33pkrbx5ziDSc)
 |W4 | 基礎文字資料機器學習 (1/2) Basic machine learning for text (Text Classification, NB, NN) |  [`SlideTA`](./2025/Slides/pytorch_tutorial_NTHU_NLP.pdf) [`Slide3B`](./2025/Slides/W3_Transformers.pdf)  | [`Video1`](https://www.youtube.com/live/INIrdjLVMEU) [`Video2`](https://www.youtube.com/live/tr5QyN5TswM) |  |
 |W5 | 基礎文字資料機器學習 (2/2) Basic machine learning for text (word embedding, text representation) | [`Slide3C`](./2025/Slides/W3_subword.pdf) | [`Video1`](https://www.youtube.com/live/Dpswwk6UMCc) [`Video2`](https://www.youtube.com/live/FB0fgRTEbJE) | [`HW2`](./2025/Assignments/Assignment2) [`Video`](https://youtu.be/nFQCFaRs0kE) |
 |W6 | 文字生成式AI簡介(1/3) Introduction to GAI (text): Word Embeddings, Language Modeling (RNN), Sequence-to-sequence Models, and Attention Mechanisms, Sub-word Tokenization; Transformers | [`Slide4`](./2025/Slides/W4_bert_and_its_family.pdf) | [`Video1`](https://www.youtube.com/live/U5HypcXrIgY) [`Video2`](https://youtube.com/live/RNlcZjzbhDo) |  |
-|W7 | *Python for text tutorial (1/2)* |  | [`Video1`](https://youtube.com/live/NtPrXea8qSE) |  |
+|W7 | *Python for text tutorial (1/2)* |  [`Slide5`](./2025/Slides/W5_decoding.pdf) | [`Video1`](https://youtube.com/live/NtPrXea8qSE) |  |
 |W8 | *Python for text tutorial (2/2)* |  |  |  |
 |W9 | 文字生成式AI簡介(2/3) Introduction to GAI (text): ELMo, BERT, GPT, and T5 (BERT and its Family) |  |  |  |
 |W10| 文字生成式AI簡介(3/3) Introduction to GAI (text): Decoding Strategies and Evaluations for Natural Language Generation |  |  |  |
