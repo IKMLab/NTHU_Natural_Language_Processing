@@ -23,7 +23,7 @@ Slido：[`Slido`](https://app.sli.do/event/5LEEUbdFx33pkrbx5ziDSc)
 |W8 | *Python for text tutorial (2/2)* |  [`Slide6`](./2025/Slides/W8_GPT3_InstructGPT_RLHF.pdf) | [`Video1`](https://youtube.com/live/w-M9plRRVQc) [`Video2`](https://youtube.com/live/h-m9wVSx0_s?si=rMAf8DgKzTTTB0cK) | [`HW3`](./2025/Assignments/Assignment3) [`Video`](https://www.youtube.com/watch?v=Fe1roWMVdUI) |
 |W9 | 文字生成式AI簡介(2/3) Introduction to GAI (text): ELMo, BERT, GPT, and T5 (BERT and its Family) | [`SlideTA`](./2025/Slides/huggingface_tutorial_gpt2_t5.pdf) [`Slide7`](./2025/Slides/W9_PEFT.pdf) | [`Video1`](https://youtube.com/live/zgjO_t5eu_E) [`Video2`](https://youtube.com/live/zWMHxXc0QvA) |  |
 |W10| 文字生成式AI簡介(3/3) Introduction to GAI (text): Decoding Strategies and Evaluations for Natural Language Generation | [`Slide8`](./2025/Slides/W11_RAG.pdf) |  [`Video1`](https://youtube.com/live/VHkMHSkJ4I4)[`Video2`](https://youtube.com/live/SMVvvbXLYg4) |  |
-|W11| 大語言模型簡介與訓練 (1/3): Large language model concept and training (GPT-3, InstructGPT, RLHF) |  |  |  |
+|W11| 大語言模型簡介與訓練 (1/3): Large language model concept and training (GPT-3, InstructGPT, RLHF) |  | [`Video1`](https://youtube.com/live/chIewpk4-q0) |  |
 |W12| 大語言模型簡介與訓練 (2/3): Parameter Efficient Fine-Tuning (PEFT) |  |  |  |
 |W13| 大語言模型簡介與訓練 (2/3): Introduction and Review technique of Retrieval Augmented Generation (RAG) |  |  |  |
 |W14| **Term project presentation (1/3)** |  |  |  |
