@@ -5,7 +5,7 @@
 | Assignment 1 | Word Analogy | [`Video`](https://youtu.be/nCS3GpHwqr8) | [`Description`](./Assignment1/NLP_HW1_word_emb.pdf) [`Template`](./Assignment1/NLP_HW1_report_template.docx) | [`Code`](./Assignment1/main.ipynb) |
 | Assignment 2 | Arithmetic | [`Video`](https://youtu.be/nFQCFaRs0kE) | [`Description`](./Assignment2/NLP_HW2_arithmetic.pdf) [`Template`](./Assignment2/NLP_HW2_report_template.docx) | [`Code`](./Assignment2/main.ipynb) |
 | Assignment 3 | Multi-output learning | [`Video`](https://youtu.be/Fe1roWMVdUI) | [`Description`](./Assignment3/NLP_HW3_Multi_output_learning.pdf) [`Template`](./Assignment3/NLP_HW3_report_template.docx) | [`Code`](./Assignment3/main.ipynb) |
-| Assignment 4 | RAG |  | [`Description`](./Assignment4/NTHU_NLP_HW4_RAG.pdf) [`Template`](./Assignment4/NLP_HW4_report_template.docx) | [`Code`](./Assignment4/main.ipynb) |
+| Assignment 4 | RAG | [`Video`](https://youtu.be/JvThEbeOZbs) | [`Description`](./Assignment4/NTHU_NLP_HW4_RAG.pdf) [`Template`](./Assignment4/NLP_HW4_report_template.docx) | [`Code`](./Assignment4/main.ipynb) |
 
 |TA Hour||
 | :-: | :-: |
