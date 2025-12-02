@@ -26,7 +26,7 @@ Slido：[`Slido`](https://app.sli.do/event/5LEEUbdFx33pkrbx5ziDSc)
 |W11| 大語言模型簡介與訓練 (1/3): Large language model concept and training (GPT-3, InstructGPT, RLHF) |  | [`Video1`](https://youtube.com/live/chIewpk4-q0) [`Video2`](https://youtube.com/live/cRSaBtoTDag?feature=share) |  |
 |W12| 大語言模型簡介與訓練 (2/3): Parameter Efficient Fine-Tuning (PEFT) | [`SlideTA`](./2025/Slides/llm_api_tutorial.pdf) | [`Video1`](https://www.youtube.com/live/XGWuVpVTwTQ) [`Video2(LLM_API)`](https://www.youtube.com/live/xGwQYvya_Ag)| [`HW4`](./2025/Assignments/Assignment4) [`Video`](https://youtu.be/JvThEbeOZbs) |
 |W13| 大語言模型簡介與訓練 (2/3): Introduction and Review technique of Retrieval Augmented Generation (RAG) | [`SlideTA1`](./2025/Slides/rag_tutorial_1.pdf) [`SlideTA2`](./2025/Slides/rag_tutorial_2.pdf) |  [`Video1(RAG1)`](https://youtube.com/live/anCghHOjzV0) [`Video2(RAG2)`](https://youtube.com/live/RpLqfqR2OZI) |  |
-|W14| **Term project presentation (1/3)** |  |  |  |
+|W14| **Term project presentation (1/3)** | [`Slide9`](./2025/Slides/Course_summary.pdf) [`Slide10`](./2025/Slides/Note from Google DeepMind's Reasoning Talk.pdf) | [`Video1`](https://youtube.com/live/_hzMv789JQ8) |  |
 |W15| **Term project presentation (1/3)** |  |  |  |
 |W16| **Term project presentation (1/3)** |  |  |  |
 |W17| **Term Project (demo) (optional)** |  |  |  |
