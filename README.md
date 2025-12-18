@@ -28,7 +28,7 @@ Slido：[`Slido`](https://app.sli.do/event/5LEEUbdFx33pkrbx5ziDSc)
 |W13| 大語言模型簡介與訓練 (2/3): Introduction and Review technique of Retrieval Augmented Generation (RAG) | [`SlideTA1`](./2025/Slides/rag_tutorial_1.pdf) [`SlideTA2`](./2025/Slides/rag_tutorial_2.pdf) |  [`Video1(RAG1)`](https://youtube.com/live/anCghHOjzV0) [`Video2(RAG2)`](https://youtube.com/live/RpLqfqR2OZI) |  |
 |W14| **Term project presentation (1)** | [`Slide9`](./2025/Slides/Course_summary.pdf) [`Slide10`](./2025/Slides/Note_from_Google_DeepMind's_Reasoning_Talk.pdf) | [`Video1`](https://youtube.com/live/_hzMv789JQ8) |  |
 |W15| **Term project presentation (2)** |  | [`Video1`](https://youtube.com/live/03_BDLu3DDU) [`Video2`](https://youtube.com/live/w48WxRz6LXE) |  |
-|W16| **Term Project (demo) (optional)** |  |  [`Video1`](https://youtube.com/live/3AsbuOlSWpQ)  |  |
+|W16| **Term Project (demo) (optional)** |  | [`Video1`](https://youtube.com/live/3AsbuOlSWpQ) [`Video2`](https://www.youtube.com/live/jQUHM3MQisw?si=f8QtZDItj2bs7Vwm)  |  |
 |W17| **Term Project (demo) (optional)** |  |  |  |
 |W18| **Term Project (demo) (optional)** |  |  |  |
 - Italics: *Tutorial*; Bold: **Reporting**
