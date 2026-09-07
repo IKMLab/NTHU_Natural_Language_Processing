@@ -3,9 +3,9 @@ This repository provides course materials of the Natural Language Processing cou
 
 |TA Hour||
 | :-: | :-: |
-|Mon. | 15:30 - 16:30 |
-|Wed. | 15:30 - 16:30 |
-| Location | 炯朗館(資電館) 635 |
+|Mon. | - |
+|Wed. | - |
+| Location | 台達館(Delta) 714 |
 
 TA email: nthuikmlab@gmail.com
 
