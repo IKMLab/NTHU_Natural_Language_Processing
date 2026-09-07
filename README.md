@@ -10,7 +10,7 @@ This repository provides course materials of the Natural Language Processing cou
 TA email: nthuikmlab@gmail.com
 
 ## Course Materials
-Slido：[`Slido`]
+Slido：[`Slido`](https://app.sli.do/event/oBajtdC5ZobNokWieGtjAg)
 | Week | Topics | Slide | Video | HW |
 |:-:|---|:-:|:-:|:-:|
 |W1 | 課程簡介 Syllabus / Introduction to NLP | [`Slide`] [`Slide1`] | [`Video1`] |  |
