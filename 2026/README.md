@@ -1,0 +1,34 @@
+# [2026] NTHU_Natural_Language_Processing-IKMLab
+This repository provides course materials of the Natural Language Processing course at NTHU (instructor: Prof. Hung-Yu Kao).
+
+|TA Hour||
+| :-: | :-: |
+|Mon. | 15:30 - 16:30 |
+|Wed. | 15:30 - 16:30 |
+| Location | 炯朗館(資電館) 635 |
+
+TA email: nthuikmlab@gmail.com
+
+## Course Materials
+Slido：[`Slido`](https://app.sli.do/event/5LEEUbdFx33pkrbx5ziDSc)
+| Week | Topics | Slide | Video | HW |
+|:-:|---|:-:|:-:|:-:|
+|W1 | 課程簡介 Syllabus / Introduction to NLP | [`Slide`](./2025/Slides/W0_Syllabus.pdf) [`Slide1`](./2025/Slides/W1_NLP_brief.pdf) | [`Video1`](https://www.youtube.com/live/X7XJcm9wfFA) [`Video2`](https://www.youtube.com/live/0hTqSpoNp4o) |  |
+|W2 | 自然語言處理簡介 (1/2) Introduction to NLP (vector space, indexing, parts of speech, phrase structure) | [`Slide2`](./2025/Slides/W2_Word%20embeddings%20and%20Language%20Modeling%20(RNN).pdf) | [`Video1`](https://www.youtube.com/live/6Z0A4JMptT8) [`Video2`](https://www.youtube.com/live/cqp5a39eyJQ?si=1-vj_n2Xe3YwheHz) | [`HW1`](./2025/Assignments/Assignment1) [`Video`](https://youtu.be/nCS3GpHwqr8) |
+|W3 | 自然語言處理簡介 (2/2) Introduction to NLP (Language model) | [`Slide3A`](./2025/Slides/W3_Sequence-to-sequence%20Models%20and%20Attention%20Mechanisms.pdf) | [`Video1`](https://www.youtube.com/live/LFeFc0VtKRI) [`Video2`](https://www.youtube.com/live/UZ22K0rmU1g)|  |
+|W4 | 基礎文字資料機器學習 (1/2) Basic machine learning for text (Text Classification, NB, NN) |  [`SlideTA`](./2025/Slides/pytorch_tutorial_NTHU_NLP.pdf) [`Slide3B`](./2025/Slides/W3_Transformers.pdf)  | [`Video1`](https://www.youtube.com/live/INIrdjLVMEU) [`Video2`](https://www.youtube.com/live/tr5QyN5TswM) |  |
+|W5 | 基礎文字資料機器學習 (2/2) Basic machine learning for text (word embedding, text representation) | [`Slide3C`](./2025/Slides/W3_subword.pdf) | [`Video1`](https://www.youtube.com/live/Dpswwk6UMCc) [`Video2`](https://www.youtube.com/live/FB0fgRTEbJE) | [`HW2`](./2025/Assignments/Assignment2) [`Video`](https://youtu.be/nFQCFaRs0kE) |
+|W6 | 文字生成式AI簡介(1/3) Introduction to GAI (text): Word Embeddings, Language Modeling (RNN), Sequence-to-sequence Models, and Attention Mechanisms, Sub-word Tokenization; Transformers | [`Slide4`](./2025/Slides/W4_bert_and_its_family.pdf) | [`Video1`](https://www.youtube.com/live/U5HypcXrIgY) [`Video2`](https://youtube.com/live/RNlcZjzbhDo) |  |
+|W7 | *Python for text tutorial (1/2)* |  [`Slide5`](./2025/Slides/W5_decoding.pdf) [`SlideTA`](./2025/Slides/huggingface_tutorial_bert.pdf)| [`Video1`](https://youtube.com/live/NtPrXea8qSE) [`Video2`](https://youtube.com/live/4qDUML9TeHM) [`Video(HuggingFace Tutorial)`](https://www.youtube.com/watch?v=VErSpYgZGiw)|  |
+|W8 | *Python for text tutorial (2/2)* |  [`Slide6`](./2025/Slides/W8_GPT3_InstructGPT_RLHF.pdf) | [`Video1`](https://youtube.com/live/w-M9plRRVQc) [`Video2`](https://youtube.com/live/h-m9wVSx0_s?si=rMAf8DgKzTTTB0cK) | [`HW3`](./2025/Assignments/Assignment3) [`Video`](https://www.youtube.com/watch?v=Fe1roWMVdUI) |
+|W9 | 文字生成式AI簡介(2/3) Introduction to GAI (text): ELMo, BERT, GPT, and T5 (BERT and its Family) | [`SlideTA`](./2025/Slides/huggingface_tutorial_gpt2_t5.pdf) [`Slide7`](./2025/Slides/W9_PEFT.pdf) | [`Video1`](https://youtube.com/live/zgjO_t5eu_E) [`Video2`](https://youtube.com/live/zWMHxXc0QvA) |  |
+|W10| 文字生成式AI簡介(3/3) Introduction to GAI (text): Decoding Strategies and Evaluations for Natural Language Generation | [`Slide8`](./2025/Slides/W11_RAG.pdf) |  [`Video1`](https://youtube.com/live/VHkMHSkJ4I4)[`Video2`](https://youtube.com/live/SMVvvbXLYg4) |  |
+|W11| 大語言模型簡介與訓練 (1/3): Large language model concept and training (GPT-3, InstructGPT, RLHF) |  | [`Video1`](https://youtube.com/live/chIewpk4-q0) [`Video2`](https://youtube.com/live/cRSaBtoTDag?feature=share) |  |
+|W12| 大語言模型簡介與訓練 (2/3): Parameter Efficient Fine-Tuning (PEFT) | [`SlideTA`](./2025/Slides/llm_api_tutorial.pdf) | [`Video1`](https://www.youtube.com/live/XGWuVpVTwTQ) [`Video2(LLM_API)`](https://www.youtube.com/live/xGwQYvya_Ag)| [`HW4`](./2025/Assignments/Assignment4) [`Video`](https://youtu.be/JvThEbeOZbs) |
+|W13| 大語言模型簡介與訓練 (2/3): Introduction and Review technique of Retrieval Augmented Generation (RAG) | [`SlideTA1`](./2025/Slides/rag_tutorial_1.pdf) [`SlideTA2`](./2025/Slides/rag_tutorial_2.pdf) |  [`Video1(RAG1)`](https://youtube.com/live/anCghHOjzV0) [`Video2(RAG2)`](https://youtube.com/live/RpLqfqR2OZI) |  |
+|W14| **Term project presentation (1)** | [`Slide9`](./2025/Slides/Course_summary.pdf) [`Slide10`](./2025/Slides/Note_from_Google_DeepMind's_Reasoning_Talk.pdf) | [`Video1`](https://youtube.com/live/_hzMv789JQ8) |  |
+|W15| **Term project presentation (2)** |  | [`Video1`](https://youtube.com/live/03_BDLu3DDU) [`Video2`](https://youtube.com/live/w48WxRz6LXE) |  |
+|W16| **Term Project (demo) (optional)** |  | [`Video1`](https://youtube.com/live/3AsbuOlSWpQ) [`Video2`](https://www.youtube.com/live/jQUHM3MQisw?si=f8QtZDItj2bs7Vwm)  |  |
+|W17| **Term Project (demo) (optional)** |  |  |  |
+|W18| **Term Project (demo) (optional)** |  |  |  |
+- Italics: *Tutorial*; Bold: **Reporting**
