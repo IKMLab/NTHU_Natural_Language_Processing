@@ -26,9 +26,9 @@ Slido：[`Slido`](https://app.sli.do/event/5LEEUbdFx33pkrbx5ziDSc)
 |W11| 大語言模型簡介與訓練 (1/3): Large language model concept and training (GPT-3, InstructGPT, RLHF) |  | [`Video1`] [`Video2`] |  |
 |W12| 大語言模型簡介與訓練 (2/3): Parameter Efficient Fine-Tuning (PEFT) | [`SlideTA`] | [`Video1`] [`Video2(LLM_API)`]| [`HW4`] [`Video`] |
 |W13| 大語言模型簡介與訓練 (2/3): Introduction and Review technique of Retrieval Augmented Generation (RAG) | [`SlideTA1`] [`SlideTA2`] |  [`Video1(RAG1)`] [`Video2(RAG2)`] |  |
-|W14| **Term project presentation (1)** | [`Slide9`] [`Slide10`] | [`Video1`] |  |
-|W15| **Term project presentation (2)** |  | [`Video1`] [`Video2`] |  |
-|W16| **Term Project (demo) (optional)** |  | [`Video1`] [`Video2`]  |  |
-|W17| **Term Project (demo) (optional)** |  |  |  |
-|W18| **Term Project (demo) (optional)** |  |  |  |
+|W14| - |  |  |  |
+|W15| - |  |  |  |
+|W16| - |  |  |  |
+|W17| - |  |  |  |
+|W18| - |  |  |  |
 - Italics: *Tutorial*; Bold: **Reporting**
