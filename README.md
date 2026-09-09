@@ -13,7 +13,7 @@ TA email: nthuikmlab@gmail.com
 Slido：[`Slido`](https://app.sli.do/event/oBajtdC5ZobNokWieGtjAg)
 | Week | Topics | Slide | Video | HW |
 |:-:|---|:-:|:-:|:-:|
-|W1 | 課程簡介 Syllabus / Introduction to NLP | [`Slide`] [`Slide1`] | [`Video1`] |  |
+|W1 | 課程簡介 Syllabus / Introduction to NLP | [`Slide`] [`Slide1`] | [`Video1`](https://youtube.com/live/EEbwXXoVQPY?feature=share) |  |
 |W2 | 自然語言處理簡介 (1/2) Introduction to NLP (vector space, indexing, parts of speech, phrase structure) | [`Slide2`] | [`Video1`] [`Video2`] | [`HW1`] [`Video`] |
 |W3 | 自然語言處理簡介 (2/2) Introduction to NLP (Language model) | [`Slide3A`] | [`Video1`] [`Video2`]|  |
 |W4 | 基礎文字資料機器學習 (1/2) Basic machine learning for text (Text Classification, NB, NN) |  [`SlideTA`] [`Slide3B`]  | [`Video1`] [`Video2`] |  |
