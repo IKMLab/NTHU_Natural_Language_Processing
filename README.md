@@ -27,7 +27,7 @@ Slido：[`Slido`](https://app.sli.do/event/oBajtdC5ZobNokWieGtjAg)
 |W12| 大語言模型簡介與訓練 (2/3): Parameter Efficient Fine-Tuning (PEFT) |  |  |  |
 |W13| 大語言模型簡介與訓練 (3/3): Introduction and Review technique of Retrieval Augmented Generation (RAG) I |  |  |  |
 |W14| Exam |  |  |  |
-|W15| 大語言模型簡介與訓練 (3/3): Introduction and Review technique of Retrieval Augmented Generation (RAG) I |  |  |  |
+|W15| 大語言模型簡介與訓練 (3/3): Introduction and Review technique of Retrieval Augmented Generation (RAG) II |  |  |  |
 |W16| Reasoning / Agent |  |  |  |
 |W17| - |  |  |  |
 |W18| - |  |  |  |
