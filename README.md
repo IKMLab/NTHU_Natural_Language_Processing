@@ -15,7 +15,7 @@ Slido：[`Slido`](https://app.sli.do/event/oBajtdC5ZobNokWieGtjAg)
 |:-:|---|:-:|:-:|:-:|
 |W1 | 課程簡介 Syllabus / Introduction to NLP | [`Syllabus`](2026/Slides/Syllabus-115.pdf) [`1-Intro`](2026/Slides/W1_NLP_brief_v2.pdf) | [`Video`](https://youtube.com/live/EEbwXXoVQPY?feature=share) |  |
 |W2 | 自然語言處理簡介 (1/2) Introduction to NLP (vector space, indexing, parts of speech, phrase structure) | [`1-Intro`](2026/Slides/W1_NLP_brief_v2.pdf) | [`Video`](https://youtube.com/live/MnA5KUETSg4)  |  |
-|W3 | 自然語言處理簡介 (2/2) Introduction to NLP (Language model) | [`Slide2`](2026/Slides/W2_Word embeddings and Language Modeling (RNN)_v2.pdf) | [`Video`](https://youtube.com/live/g0QE6O17BWE?feature=share) |  |
+|W3 | 自然語言處理簡介 (2/2) Introduction to NLP (Language model) | [`Slide2`](<2026/Slides/W2_Word embeddings and Language Modeling (RNN)_v2.pdf>) | [`Video`](https://youtube.com/live/g0QE6O17BWE?feature=share) |  |
 |W4 | 基礎文字資料機器學習 (1/2) Basic machine learning for text (Text Classification, NB, NN) |  |  |  |
 |W5 | 基礎文字資料機器學習 (2/2) Basic machine learning for text (word embedding, text representation) |  |  | |
 |W6 | *Python for text tutorial (1/2)* |  |  |  |
