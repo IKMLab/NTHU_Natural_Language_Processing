@@ -18,7 +18,7 @@ Slido：[`Slido`](https://app.sli.do/event/oBajtdC5ZobNokWieGtjAg)
 |W3 | 自然語言處理簡介 (2/2) Introduction to NLP (Language model) | [`2-LanguageModel`](<2026/Slides/W2_Word embeddings and Language Modeling (RNN).pdf>) | [`Video`](https://youtube.com/live/g0QE6O17BWE?feature=share) | [`HW1`](2026/Assignments/Assignment1) |
 |W4 | 基礎文字資料機器學習 (1/2) Basic machine learning for text (Text Classification, NB, NN) | [`TA-PyTorch`](2026/Slides/pytorch_tutorial_NTHU_NLP.pdf) | [`Video`](https://youtube.com/live/7kgOuhuIjvY?feature=share) [`TA-PyTorch`](https://www.youtube.com/watch?v=sg22677pUEs)|  |
 |W5 | 基礎文字資料機器學習 (2/2) Basic machine learning for text (word embedding, text representation) | [`3A-Seq2Seq`](<2026/Slides/W3_Sequence-to-sequence Models and Attention Mechanisms.pdf>) | [`Video`](https://youtube.com/live/Dm_sxdf13Fo?feature=share) | |
-|W6 | *Python for text tutorial (1/2)* |  | [`Video`](https://youtube.com/live/olkHKJtR5MY?feature=share) | [`HW2`](2026/Assignments/Assignment2) |
+|W6 | *Python for text tutorial (1/2)* | [`3B-Transformer`](2026/Slides/W3_Transformers.pdf) | [`Video`](https://youtube.com/live/olkHKJtR5MY?feature=share) | [`HW2`](2026/Assignments/Assignment2) |
 |W7 | *Python for text tutorial (2/2)* |  | |  |
 |W8 | 文字生成式AI簡介(1/3) Introduction to GAI (text): Word Embeddings, Language Modeling (RNN), Sequence-to-sequence Models, and Attention Mechanisms, Sub-word Tokenization; Transformers |  | |  |
 |W9 | 文字生成式AI簡介(2/3) Introduction to GAI (text): ELMo, BERT, GPT, and T5 (BERT and its Family) |  |  |  |
