@@ -19,7 +19,7 @@ Slido：[`Slido`](https://app.sli.do/event/oBajtdC5ZobNokWieGtjAg)
 |W4 | 基礎文字資料機器學習 (1/2) Basic machine learning for text (Text Classification, NB, NN) | [`TA-PyTorch`](2026/Slides/pytorch_tutorial_NTHU_NLP.pdf) | [`Video`](https://youtube.com/live/7kgOuhuIjvY?feature=share) [`TA-PyTorch`](https://www.youtube.com/watch?v=sg22677pUEs)|  |
 |W5 | 基礎文字資料機器學習 (2/2) Basic machine learning for text (word embedding, text representation) | [`3A-Seq2Seq`](<2026/Slides/W3_Sequence-to-sequence Models and Attention Mechanisms.pdf>) | [`Video`](https://youtube.com/live/Dm_sxdf13Fo?feature=share) | |
 |W6 | *Python for text tutorial (1/2)* | [`3B-Transformer`](2026/Slides/W3_Transformers.pdf) | [`Video`](https://youtube.com/live/olkHKJtR5MY?feature=share) | [`HW2`](2026/Assignments/Assignment2) |
-|W7 | *Python for text tutorial (2/2)* |  | |  |
+|W7 | *Python for text tutorial (2/2)* |  | [`Video`](https://youtube.com/live/u1m6WKJC4mc?feature=share) |  |
 |W8 | 文字生成式AI簡介(1/3) Introduction to GAI (text): Word Embeddings, Language Modeling (RNN), Sequence-to-sequence Models, and Attention Mechanisms, Sub-word Tokenization; Transformers |  | |  |
 |W9 | 文字生成式AI簡介(2/3) Introduction to GAI (text): ELMo, BERT, GPT, and T5 (BERT and its Family) |  |  |  |
 |W10| 文字生成式AI簡介(3/3) Introduction to GAI (text): Decoding Strategies and Evaluations for Natural Language Generation |  |  |  |
