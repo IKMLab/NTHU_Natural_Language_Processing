@@ -22,7 +22,7 @@ Slido：[`Slido`](https://app.sli.do/event/oBajtdC5ZobNokWieGtjAg)
 |W7 | *Python for text tutorial (2/2)* | [`3C-Subword`](2026/Slides/W3_subword.pdf) | [`Video`](https://youtube.com/live/u1m6WKJC4mc?feature=share) |  |
 |W8 | 文字生成式AI簡介(1/3) Introduction to GAI (text): Word Embeddings, Language Modeling (RNN), Sequence-to-sequence Models, and Attention Mechanisms, Sub-word Tokenization; Transformers |[`4-BERT`](2026/Slides/W4_bert_and_its_family.pdf) [`TA-HF`](2026/Slides/huggingface_tutorial_bert.pdf) | [`Video`](https://youtube.com/live/HmIGgrEk3vk) [`TA-HF`](https://www.youtube.com/watch?v=VErSpYgZGiw) |  |
 |W9 | 文字生成式AI簡介(2/3) Introduction to GAI (text): ELMo, BERT, GPT, and T5 (BERT and its Family) | [`5-Decode`](2026/Slides/W5_decoding.pdf) | [`Video`](https://youtube.com/live/eYoEmm-dT_0?feature=share) | [`HW3`](2026/Assignments/Assignment3) |
-|W10| 文字生成式AI簡介(3/3) Introduction to GAI (text): Decoding Strategies and Evaluations for Natural Language Generation |  | [`Video`](https://youtube.com/live/nnWt3cp0iwU?feature=share) |  |
+|W10| 文字生成式AI簡介(3/3) Introduction to GAI (text): Decoding Strategies and Evaluations for Natural Language Generation | [`5-Decode`](2026/Slides/W5_decoding.pdf) [`8-GPT3`](2026/Slides/W8_GPT3_InstructGPT_RLHF.pdf) | [`Video`](https://youtube.com/live/nnWt3cp0iwU?feature=share) |  |
 |W11| 大語言模型簡介與訓練 (1/3): Large language model concept and training (GPT-3, InstructGPT, RLHF) |  |  |  |
 |W12| 大語言模型簡介與訓練 (2/3): Parameter Efficient Fine-Tuning (PEFT) |  |  |  |
 |W13| 大語言模型簡介與訓練 (3/3): Introduction and Review technique of Retrieval Augmented Generation (RAG) I |  |  |  |
